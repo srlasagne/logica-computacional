@@ -1,0 +1,69 @@
+subject:
+  name: Lógica Computacional
+  code: lc
+  credits: 6
+  course: 1
+  semester: 2
+
+schedule:
+  start_date: 2025-03-03
+  end_date: 2025-06-26
+
+topics:
+  - topic: Justificación de la Lógica
+    code: gcs-lc-t01-justificacion-de-la-logica
+  - topic: Formalización para la lógica proposicional
+    code: gcs-lc-t02-formalizacion-para-la-logica-proposicional
+  - topic: Cálculo de deducción natural de enunciados
+    code: gcs-lc-t03-calculo-de-deduccion-natural-de-enunciados
+  - topic: Estrategias de deducción para la lógica proposicional
+    code: gcs-lc-t04-estrategias-de-deduccion-para-la-logica-proposicional
+  - topic: Semántica de la lógica proposicional
+    code: gcs-lc-t05-semantica-de-la-logica-proposicional
+  - topic: Aplicaciones de la lógica proposicional. Circuitos lógicos
+    code: gcs-lc-t06-aplicaciones-de-la-logica-proposicional-circuitos-logicos
+  - topic: Estrategias de formalización para la lógica de predicados
+    code: gcs-lc-t07-estrategias-de-formalizacion-para-la-logica-de-predicados
+  - topic: Cálculo de deducción para la lógica de predicados
+    code: gcs-lc-t08-calculo-de-deduccion-para-la-logica-de-predicados
+  - topic: Aplicaciones de la lógica de predicados. Programación lógica
+    code: gcs-lc-t09-aplicaciones-de-la-logica-de-predicados-programacion-logica
+  - topic: Semántica de la lógica de predicados
+    code: gcs-lc-t10-semantica-de-la-logica-de-predicados
+
+slides:
+  - slide: Justificación de la Lógica
+    code: gcs-lc-s01-justificacion-de-la-logica
+  - slide: Formalización para la lógica proposicional
+    code: gcs-lc-s02-formalizacion-para-la-logica-proposicional
+  - slide: Cálculo de deducción natural de enunciados
+    code: gcs-lc-s03-calculo-de-deduccion-natural-de-enunciados
+  - slide: Estrategias de deducción para la lógica proposicional
+    code: gcs-lc-s04-estrategias-de-deduccion-para-la-logica-proposicional
+  - slide: Semántica de la lógica proposicional
+    code: gcs-lc-s05-semantica-de-la-logica-proposicional
+  - slide: Aplicaciones de la lógica proposicional. Circuitos lógicos
+    code: gcs-lc-s06-aplicaciones-de-la-logica-proposicional-circuitos-logicos
+  - slide: Estrategias de formalización para la lógica de predicados
+    code: gcs-lc-s07-estrategias-de-formalizacion-para-la-logica-de-predicados
+  - slide: Cálculo de deducción para la lógica de predicados
+    code: gcs-lc-s08-calculo-de-deduccion-para-la-logica-de-predicados
+  - slide: Aplicaciones de la lógica de predicados. Programación lógica
+    code: gcs-lc-s09-aplicaciones-de-la-logica-de-predicados-programacion-logica
+  - slide: Semántica de la lógica de predicados
+    code: gcs-lc-s10-semantica-de-la-logica-de-predicados
+
+assignments:
+  - assignment: Lógica y lenguaje natural
+    code: gcs-lc-a01-lógica-y-lenguaje-natural
+    due_date: 2025-04-07
+  - assignment: Prolog y las tres torres
+    code: gcs-lc-a02-prolog-y-las-tres-torres
+    due_date: 2025-06-09
+
+lectures:
+  - lecture: Introducción a la asignatura
+    code: gcs-lc-l01-introduccion-a-la-asignatura
+    date: 2025-03-04
+
+resources:
